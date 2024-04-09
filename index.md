@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
-Emma
+title: Welcome to my blog :)
+
 ---
 
